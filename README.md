@@ -1,4 +1,4 @@
-```markdown!
+```markdown
 # Book Manager API
 
 API REST para la gestión de una colección personal de libros, construida con **Spring Boot 3** y **Java 17**.
